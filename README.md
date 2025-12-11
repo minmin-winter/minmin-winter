@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hi there 👋 I'm Minmin
+- 🔭 I’m currently transitioning from **Math** to **AI**.
+- 🌱 I’m learning **PyTorch** & **Deep Learning**.
+- ⚡ Fun fact: I implemented a Neural Network(nn.Linear and MLP) from scratch!
 
 <!--
 **minmin-winter/minmin-winter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
