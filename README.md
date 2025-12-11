@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Minmin
+### Hi there 👋 I'm Minmin-winter
 - 🔭 I’m currently transitioning from **Math** to **AI**.
 - 🌱 I’m learning **PyTorch** & **Deep Learning**.
 - ⚡ Fun fact: I implemented a Neural Network(nn.Linear and MLP) from scratch!
